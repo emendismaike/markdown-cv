@@ -153,12 +153,13 @@ h3 {
 }
 
 a {
-	color: inherit;
+	color: #2cb2d1;
+	font-weight: 500;
 	/*text-decoration:none*/
 }
 
 a:hover {
-	color:#39f
+	color:#26a6c6
 }
 
 #webaddress {
