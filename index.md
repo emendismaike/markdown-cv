@@ -22,20 +22,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Languages
 
-<table>
-  <tr>
-    <td>__Dutch__</td>
-    <td>`●●●`</td>
-  <tr>
-    <td>__English__</td>
-    <td>`●●○`</td>
-  </tr>
-  <tr>
-    <td>__Spanish__</td>
-    <td>`●●●`</td>
-  </tr>
-</table>
-
+| Languages | Level   |
+| --------  | ------- |
+| Dutch     | `●●●`   |
+| Spanish   | $80     |
+| Spanish   | $420    |
 
 
 ### Research interests
