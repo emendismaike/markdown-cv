@@ -2,7 +2,7 @@
 layout: cv
 title: Maike Jochoms
 ---
-<div class="section--main" markdown=1>
+<div id="sectionMain" markdown=1>
 
 # Maike Jochoms
 Digital Designer at Emendis b.v.
