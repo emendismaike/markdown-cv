@@ -2,9 +2,10 @@
 layout: cv
 title: Maike Jochoms
 ---
+<div class="section-main">
 # Maike Jochoms
 Digital Designer at Emendis b.v.
-
+</div>
 <div id="webaddress">
 <a href="mailto:m.jochoms@emendis.nl">m.jochoms@emendis.nl</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">www.mywebsite.nl</a>
