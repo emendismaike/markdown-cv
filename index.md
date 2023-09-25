@@ -1,19 +1,19 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Maike Jochoms
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Maike Jochoms
+Digital Designer at Emendis b.v.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:m.jochoms@emendis.nl">m.jochoms@emendis.nl</a>
+| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">www.mywebsite.nl</a>
 </div>
 
 
-## Currently
+## Profile
 
-Standing on the shoulders of giants
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 ### Specialized in
 
