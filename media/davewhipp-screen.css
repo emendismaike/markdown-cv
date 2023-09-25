@@ -45,6 +45,13 @@ q:before, q:after {
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
+    	left: 25%;
+    	width: 55%;
+    	position: relative;
+}
+
+thead {
+	text-align: left;
 }
 
 /* end of reset */
