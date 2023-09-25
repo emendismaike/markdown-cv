@@ -22,16 +22,23 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Kennis & Trainingen
 
-| *Talen*              |     |  *Applicaties*               |
-|----------------------|------------------------------------|
-| Engels               | ●●● | Adobe CS Suite         | ●●○ | 
-| Nederlands           | ●●● | HiX                    | ●●● |
-| Surinaams            | ●●● | MS Office              | ●●● |
-| *Braches*            |     |
-| ---------------------|     |
-| Gezondheidszorg      | ●●● |
-| ICT                  | ●●○ |
-| Grafische industrie  | ●●○ |
+| **Talen**               |     |  **Applicaties**           |
+|:------------------------|-----|:-----------------------------|
+| Engels                  | ●●● | Adobe CS Suite         | ●●○ | 
+| Nederlands              | ●●● | HiX                    | ●●● |
+| Surinaams               | ●●● | MS Office              | ●●● |
+| **Braches**             |     |
+| :-----------------------|     |
+| Gezondheidszorg         | ●●● |
+| ICT                     | ●●○ |
+| Grafische industrie     | ●●○ |
+| **Expertises**          |     |
+| :-----------------------|     |
+| Agile                   | ●●● |
+| CI/CD                   | ●●○ |
+| Keten testen            | ●●○ |
+| System integration test | ●●● |
+| Test automation         | ●●● |
 
 ### Research interests
 
