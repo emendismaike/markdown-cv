@@ -23,7 +23,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## Languages
 
 <table>
-  <tr> ### Languages </tr>
   <tr>
     <td>__Dutch__</td>
     <td>`●●●`</td>
