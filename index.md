@@ -20,10 +20,24 @@ Digital Designer at Emendis b.v.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-### Specialized in
+## Languages
 
-`●●○`
-__Engels__
+<table>
+  <tr> ### Languages </tr>
+  <tr>
+    <td>__Dutch__</td>
+    <td>`●●●`</td>
+  <tr>
+    <td>__English__</td>
+    <td>`●●○`</td>
+  </tr>
+  <tr>
+    <td>__Spanish__</td>
+    <td>`●●●`</td>
+  </tr>
+</table>
+
+
 
 ### Research interests
 
