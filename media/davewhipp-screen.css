@@ -202,6 +202,22 @@ strong {
 #sectionMain {
 	background-color: #eff5f8;
 	padding: 2rem 0;
+	display: flex;
+}
+
+#sectionMainPhoto p {
+    width: 220px;
+    object-fit: cover;
+    height: 220px;
+    left: 0;
+}
+
+#sectionMainPhoto img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 100%;
+    object-position: center;
 }
 
 /*
