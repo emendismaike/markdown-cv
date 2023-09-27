@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 | Java                    | ●●○ | Test driven dev.       | ●●○ |
 | **OS & Netwerken**      | ●●○ |                        |     |
 | MacOS                   | ●●○ |                        |     |
-| Windows                 | ●●○ |                        | ●●○ |
+| Windows                 | ●●○ |                        |     |
 | Android                 | ●●○ |                        |     |
 
 
