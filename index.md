@@ -4,9 +4,12 @@ title: Maike Jochoms
 ---
 
 <div id="sectionMain" markdown=1>
+<div id="sectionMainPhoto">
 
 ![Profile picture](./media/profile-picture.jpg)
 
+</div>
+<div id=#sectionMainName">
 # Maike Jochoms
 Digital Designer at Emendis b.v.
 
@@ -15,6 +18,7 @@ Digital Designer at Emendis b.v.
   | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">www.mywebsite.nl</a>
   </div>
 
+</div>
 </div>
 
 
