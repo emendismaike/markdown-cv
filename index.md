@@ -70,16 +70,12 @@ __Functie titel__\
 Functie omschrijving Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
 magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-\
-
 
 |   **Task**    |   **Results**   |  **Environment**    |
 |---------------|-----------------|---------------------|
 |  - Task       |  - Result       |  - Environment      |
 |  - Task       |  - Result       |  - Environment      |
 |  - Task       |  - Result       |  - Environment      |
-
-\
 
 `Sept. 2000 - Aug. 2004`
 __Functie titel__\
@@ -88,9 +84,6 @@ __Functie titel__\
 **Functieomschrijving**
 Functie omschrijving Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
 magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-\
-
 
 |   **Task**    |   **Results**   |  **Environment**    |
 |---------------|-----------------|---------------------|
@@ -110,6 +103,7 @@ __Education title__\
 
 `Sept. 2010 - June 2018`
 __Education title__
+*School*
 
 - Diploma HAVO
 
