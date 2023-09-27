@@ -79,6 +79,7 @@ magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
 |  - Task       |  - Result       |  - Environment      |
 |  - Task       |  - Result       |  - Environment      |
 |  - Task       |  - Result       |  - Environment      |
+
 <br/>
 
 `Sept. 2000 - Aug. 2004`
