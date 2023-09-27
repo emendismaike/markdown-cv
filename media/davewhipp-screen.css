@@ -233,8 +233,7 @@ strong {
 
 #sectionMainName {
 	flex: 2;
-	position: relative;
-	left: 3rem;
+	padding-left: 3rem;
 }
 
 div#sectionMainName * {
