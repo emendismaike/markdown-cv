@@ -33,9 +33,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 | Engels                  | ●●● | Adobe CS Suite         | ●●○ | 
 | Nederlands              | ●●● | HiX                    | ●●● |
 | Surinaams               | ●●● | MS Office              | ●●● |
-| **Braches**             |     |
-|-------------------------|     |
-| Gezondheidszorg         | ●●● |
+| **Braches**             |     | ksjgl;sg               | ●●● |
+|-------------------------|     | ksjgl;sg               | ●●● |
+| Gezondheidszorg         | ●●● | ksjgl;sg               | ●●● |
 | ICT                     | ●●○ |
 | Grafische industrie     | ●●○ |
 | **Expertises**          |     |
