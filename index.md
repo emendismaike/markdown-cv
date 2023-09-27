@@ -9,7 +9,7 @@ title: Maike Jochoms
 ![Profile picture](./media/profile-picture.jpg)
 
 </div>
-<div id="#sectionMainName" markdown=1>
+<div id="sectionMainName" markdown=1>
 # Maike Jochoms
 Digital Designer at Emendis b.v.
 
