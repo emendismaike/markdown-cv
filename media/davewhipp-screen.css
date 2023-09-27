@@ -207,6 +207,13 @@ strong {
 	background-color: #eff5f8;
 	padding: 2rem 0;
 	display: flex;
+	align-items: center;
+}
+
+#sectionMainPhoto {
+	display: flex;
+	flex: 1;
+	justify-content: end;
 }
 
 #sectionMainPhoto p {
@@ -222,6 +229,12 @@ strong {
     object-fit: cover;
     border-radius: 100%;
     object-position: center;
+}
+
+#sectionMainName {
+	flex: 2;
+	position: relative;
+	left: 3rem;
 }
 
 div#sectionMainName * {
