@@ -59,15 +59,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 | Windows                 | ●●○ |                        | ●●○ |
 | Android                 | ●●○ |                        |     |
 
-### Werkervaring
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
+## Work experience
 
 `Sept. 2000 - Aug. 2004`
-__Functie titel__
+__Functie titel__\\
 *Instantie*
 
 ### Functieomschrijving 
