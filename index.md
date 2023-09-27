@@ -66,10 +66,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## Work experience
 
 `Sept. 2000 - Aug. 2004`
-__Functie titel__\
+__Functie titel__ <br/>
 *Instantie*
 
-**Functieomschrijving**
+**Functieomschrijving** <br/>
 Functie omschrijving Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
 magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
@@ -79,6 +79,7 @@ magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
 |  - Task       |  - Result       |  - Environment      |
 |  - Task       |  - Result       |  - Environment      |
 |  - Task       |  - Result       |  - Environment      |
+<br/>
 
 `Sept. 2000 - Aug. 2004`
 __Functie titel__\
@@ -99,13 +100,13 @@ magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
 ## Education 
 
 `Sept. 2018 - now`
-__Education title__\
+__Education title__ <br/>
 *School*
 
 - Diploma
 
 `Sept. 2010 - June 2018`
-__Education title__\
+__Education title__ <br/>
 *School*
 
 - Diploma HAVO
@@ -115,7 +116,7 @@ __Education title__\
 ## Training & Courses
 
 `Sept. 2018 - now`
-__Training title title__\
+__Training title title__ <br/>
 *School*
 
 - Certificate
