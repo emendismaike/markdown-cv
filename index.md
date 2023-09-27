@@ -66,19 +66,45 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 __Functie titel__\\
 *Instantie*
 
-### Functieomschrijving 
+**Functieomschrijving**
 Functie omschrijving Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
 magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
+\\
+
+
 |   **Task**    |   **Results**   |  **Environment**    |
 |---------------|-----------------|---------------------|
-|  - Taak       |  - Result       |  - Environment      |
-|  - Taak       |  - Result       |  - Environment      |
-|  - Taak       |  - Result       |  - Environment      |
+|  - Task       |  - Result       |  - Environment      |
+|  - Task       |  - Result       |  - Environment      |
+|  - Task       |  - Result       |  - Environment      |
+
+\\
+
+`Sept. 2000 - Aug. 2004`
+__Functie titel__\\
+*Employer*
+
+**Functieomschrijving**
+Functie omschrijving Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+\\
 
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+|   **Task**    |   **Results**   |  **Environment**    |
+|---------------|-----------------|---------------------|
+|  - Task       |  - Result       |  - Environment      |
+|  - Task       |  - Result       |  - Environment      |
+|  - Task       |  - Result       |  - Environment      |
+
+
+
+## Education 
+
+`Sept. 2018 - now`
+__Education title__\\
+*School*
 
 - Sizar
 
