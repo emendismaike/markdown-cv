@@ -59,15 +59,25 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 | Windows                 | ●●○ |                        | ●●○ |
 | Android                 | ●●○ |                        |     |
 
-### Research interests
+### Werkervaring
 
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Sept. 2000 - Aug. 2004`
+__Functie titel__
+*Instantie*
+
+# Functieomschrijving 
+Functie omschrijving Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+# Taken
+> Taak
+> Taak
+> Taak
 
 `June 1661 - now`
 __Trinity College, Cambridge__
