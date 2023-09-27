@@ -7,7 +7,7 @@ title: Maike Jochoms
 <div id="sectionMainPhoto" markdown=1>
 
 <!-- Add your profile picture to the "media" directoy and change the "profile-picture.jpg" text to add it to your resume -->
-![Profile picture](./media/profile-picture.jpg)
+![Profile picture](./media/img/profile-picture.jpg)
 
 </div>
 <div id="sectionMainName" markdown=1>
