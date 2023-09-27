@@ -27,24 +27,37 @@ Digital Designer at Emendis b.v.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 ## Kennis & Trainingen
+<!-- Copy paste the circles to define your level ●○○ ●●○ ●●● -->
 
 | **Talen**               |     | **Applicaties**              |
 |-------------------------|-----|------------------------------|
 | Engels                  | ●●● | Adobe CS Suite         | ●●○ | 
 | Nederlands              | ●●● | HiX                    | ●●● |
 | Surinaams               | ●●● | MS Office              | ●●● |
-| **Braches**             |     | ksjgl;sg               | ●●● |
-|-------------------------|     | ksjgl;sg               | ●●● |
-| Gezondheidszorg         | ●●● | ksjgl;sg               | ●●● |
-| ICT                     | ●●○ |
-| Grafische industrie     | ●●○ |
-| **Expertises**          |     |
-|-------------------------|     |
-| Agile                   | ●●● |
-| CI/CD                   | ●●○ |
-| Keten testen            | ●●○ |
-| System integration test | ●●● |
-| Test automation         | ●●● |
+| **Braches**             |     | Principle              | ●●● |
+| Gezondheidszorg         | ●●● | Sketch                 | ●●● |
+| ICT                     | ●●○ | Agolia                 | ●●● |
+| Grafische industrie     | ●●○ | Bloomreach CMS         | ●●○ |
+| **Expertises**          |     | Commerce tools         | ●●● |
+| Agile                   | ●●● | MS Azure               | ●●● |
+| CI/CD                   | ●●○ | Sendgrid               | ●●○ |
+| Keten testen            | ●●○ | Testrail               | ●●○ |
+| System integration test | ●●● | Pega                   | ●●○ |
+| Test automation         | ●●● | **Tools**              |     |
+| Wireframing             | ●●○ | Selenium               | ●●○ |
+| Prototyping             | ●●○ | Webdriver io           | ●●○ |
+| **Databases**           | ●●○ | Espresso               | ●●○ |
+| Lasesnotes              | ●●○ | Tosca                  | ●●○ |
+| TopDesk                 | ●●○ | Methodes               | ●●○ |
+| **Programmeren**        | ●●○ | **Development**        | ●●○ |
+| Typescript              | ●●○ | Domain driven          | ●●○ |
+| C#                      | ●●○ | Development            | ●●○ |
+| HTML/CSS                | ●●○ | POM                    | ●●○ |
+| Java                    | ●●○ | Test driven dev.       | ●●○ |
+| **OS & Netwerken**      | ●●○ |                        |     |
+| MacOS                   | ●●○ |                        |     |
+| Windows                 | ●●○ |                        | ●●○ |
+| Android                 | ●●○ |                        |     |
 
 ### Research interests
 
