@@ -6,13 +6,16 @@ title: Maike Jochoms
 <div id="sectionMain" markdown=1>
 <div id="sectionMainPhoto" markdown=1>
 
+<!-- Add your profile picture to the "media" directoy and change the "profile-picture.jpg" text to add it to your resume -->
 ![Profile picture](./media/profile-picture.jpg)
 
 </div>
 <div id="sectionMainName" markdown=1>
+  
 # Maike Jochoms
 Digital Designer at Emendis b.v.
 
+<!-- Add your email address and website (if you don't have one, delete the website part -->
   <div id="webaddress">
   <a href="mailto:m.jochoms@emendis.nl">m.jochoms@emendis.nl</a>
   | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">www.mywebsite.nl</a>
