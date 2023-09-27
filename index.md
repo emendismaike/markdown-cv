@@ -106,22 +106,22 @@ magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
 __Education title__\\
 *School*
 
-- Sizar
+- Diploma
 
-`1667 - death`
-__Trinity College, Cambridge__
+`Sept. 2010 - June 2018`
+__Education title__
 
-- Fellow
+- Diploma HAVO
 
 
 
-## Awards
+## Training & Courses
 
-`2012`
-President, *Royal Society*, London, UK
+`Sept. 2018 - now`
+__Training title title__\\
+*School*
 
-Associate, *French Academy of Science*, Paris, France
-
+- Certificate
 
 
 ## Publications
