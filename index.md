@@ -4,12 +4,12 @@ title: Maike Jochoms
 ---
 
 <div id="sectionMain" markdown=1>
-<div id="sectionMainPhoto">
+<div id="sectionMainPhoto" markdown=1>
 
 ![Profile picture](./media/profile-picture.jpg)
 
 </div>
-<div id=#sectionMainName">
+<div id="#sectionMainName" markdown=1>
 # Maike Jochoms
 Digital Designer at Emendis b.v.
 
