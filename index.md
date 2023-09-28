@@ -79,9 +79,9 @@ magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
 
 |   **Task**    |   **Results**   |  **Environment**    |
 |---------------|-----------------|---------------------|
-|  - Task       |  - Result       |  - Environment      |
-|  - Task       |  - Result       |  - Environment      |
-|  - Task       |  - Result       |  - Environment      |
+|  * Task       |  * Result       |  * Environment      |
+|  * Task       |  * Result       |  * Environment      |
+|  * Task       |  * Result       |  * Environment      |
 
 <br/>
 
@@ -95,9 +95,9 @@ magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
 
 |   **Task**    |   **Results**   |  **Environment**    |
 |---------------|-----------------|---------------------|
-|  - Task       |  - Result       |  - Environment      |
-|  - Task       |  - Result       |  - Environment      |
-|  - Task       |  - Result       |  - Environment      |
+|  * Task       |  * Result       |  * Environment      |
+|  * Task       |  * Result       |  * Environment      |
+|  * Task       |  * Result       |  * Environment      |
 
 
 
