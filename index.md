@@ -29,6 +29,8 @@ Digital Designer at Emendis b.v.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
+<div id="tableKnowledge" markdown=1>
+
 ## Kennis & Trainingen
 <!-- Copy paste the circles to define your level ●○○ ●●○ ●●● -->
 
@@ -62,6 +64,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 | Windows                 | ●●○ |                        |     |
 | Android                 | ●●○ |                        |     |
 
+</div>
 
 ## Work experience
 
