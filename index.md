@@ -71,7 +71,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## Work experience
 
 `Sept. 2000 - Aug. 2004`
-__Functie titel__ <br/>
+### Functie titel <br/>
 *Instantie*
 
 **Functieomschrijving** <br/>
