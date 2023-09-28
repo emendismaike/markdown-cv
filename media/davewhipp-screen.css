@@ -226,10 +226,11 @@ strong {
 }
 
 #sectionMain {
-	background-color: #eff5f8;
-	padding: 2rem 0;
-	display: flex;
-	align-items: center;
+    display: flex;
+    background-color: #eff5f8;
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+    align-items: center;
 }
 
 #sectionMainPhoto {
