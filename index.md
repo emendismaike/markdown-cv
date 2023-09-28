@@ -65,6 +65,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 | Android                 | ●●○ |                         |     |
 
 </div>
+<div id="workExperience" markdown=1>
 
 ## Work experience
 
@@ -98,14 +99,23 @@ magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
 |  * Task       |  * Result       |  * Environment      |
 |  * Task       |  * Result       |  * Environment      |
 |  * Task       |  * Result       |  * Environment      |-->
+  
+**Task**
+- Task
+- Task
+- Task
 
+**Result**
+- Result
+- Result
+- Result
 
-|   **Task**    |   **Results**   |  **Environment**    |
-|---------------|-----------------|---------------------|
-| + list
-  + list
-  + list
+**Environment**
+- Environment
+- Environment
+- Environment
 
+</div>
 
 ## Education 
 
