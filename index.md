@@ -15,9 +15,13 @@ title: Maike Jochoms
 # Maike Jochoms
 Digital Designer at Emendis b.v.
 
+<div id="information" markdown=1>
+  <span id="city">Groesbeek</span>
+  <span id="dateOfBirth">07 - 10 - 1994</span>
+</div>
 
 <!-- Add your email address and website (if you don't have one, delete the website part -->
-  <div id="webaddress">
+<div id="webaddress">
   <a href="mailto:m.jochoms@emendis.nl">m.jochoms@emendis.nl</a>
   | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">www.mywebsite.nl</a>
   </div>
