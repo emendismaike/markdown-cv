@@ -110,11 +110,13 @@ body {
 }
 
 p {
-	position: relative;
-	left: 25%;
-	margin-bottom: 0.7em;
-	margin-right: 0;
-	width: 55%;
+    position: relative;
+    left: 25%;
+    margin-bottom: 0.7em;
+    margin-right: 0;
+    width: 55%;
+    font-weight: light;
+    line-height: 2rem;
 }
 
 code {
