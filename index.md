@@ -71,7 +71,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## Work experience
 
 `Sept. 2000 - Aug. 2004`
-### Functie titel <br/>
+__Functie titel__ <br/>
 *Instantie*
 
 **Functieomschrijving** <br/>
@@ -88,7 +88,7 @@ magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
 <br/>
 
 `Sept. 2000 - Aug. 2004`
-__Functie titel__\
+__Functie titel__ <br/>
 *Employer*
 
 **Functieomschrijving** <br/>
