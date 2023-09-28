@@ -246,6 +246,21 @@ strong {
     align-items: center;
 }
 
+#city::before {
+    content: '\f3c5';
+    font-family: 'Font Awesome 6 Pro';
+    color: #2cb2d1;
+    margin-right: 10px;
+}
+
+#dateOfBirth::before {
+    content: '\f783';
+    font-family: 'Font Awesome 6 Pro';
+    color: #2cb2d1;
+    margin-right: 10px;
+}
+
+
 #sectionMainPhoto {
 	display: flex;
 	flex: 2;
