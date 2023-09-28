@@ -15,6 +15,7 @@ title: Maike Jochoms
 # Maike Jochoms
 Digital Designer at Emendis b.v.
 
+
 <!-- Add your email address and website (if you don't have one, delete the website part -->
   <div id="webaddress">
   <a href="mailto:m.jochoms@emendis.nl">m.jochoms@emendis.nl</a>
@@ -103,29 +104,19 @@ magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
 
 ## Education 
 
-`Sept. 2018 - now`
+`Diploma // Sept. 2018 - now`
 __Education title__ <br/>
 *School*
 
-- Diploma
-
-`Sept. 2010 - June 2018`
+`Diploma HAVO // Sept. 2010 - June 2018`
 __Education title__ <br/>
 *School*
-
-- Diploma HAVO
 
 </div>
 
 ## Training & Courses
 
-`Sept. 2018 - now`
+`Certificate // Sept. 2018 - now`
 __Training title title__ <br/>
 *School*
 
-- Certificate
-
-<div id="Footer" markdown=1>
-
-
-</div>
