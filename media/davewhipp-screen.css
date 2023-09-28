@@ -235,7 +235,7 @@ strong {
 
 #sectionMainPhoto {
 	display: flex;
-	flex: 1;
+	flex: 2;
 	justify-content: end;
 }
 
@@ -255,7 +255,7 @@ strong {
 }
 
 #sectionMainName {
-	flex: 2;
+	flex: 3;
 	padding-left: 3rem;
 }
 
