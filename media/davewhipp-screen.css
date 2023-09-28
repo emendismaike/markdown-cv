@@ -249,6 +249,14 @@ div#sectionMainName * {
     left: 0;
 }
 
+footer img {
+    position: relative;
+    height: 8rem;
+    display: flex;
+    margin-top: auto;
+    margin-left: auto;
+}
+
 /*
 @media only screen and (max-width: 480px) {
 	make one column somehow...
