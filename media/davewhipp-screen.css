@@ -82,14 +82,6 @@ tr:nth-child(odd) {
     margin-right: 10px;
 }
 
-li::before {
-    content: '\f5f3';
-    font-family: 'Font Awesome 6 Pro';
-    co: 10px;
-    margin-right: 10px;
-    color: #2cb2d1;
-}
-
 /* end of reset */
 
 header {
