@@ -70,9 +70,16 @@ tr:nth-child(odd) {
     background-color: #eff4f8;
 }
 
-div#tableKnowledge tr td:nth-child(2), div#tableKnowledge tr td:nth-child(4) {
+#tableKnowledge tr td:nth-child(2), #tableKnowledge tr td:nth-child(4) {
     color: #2cb2d1;
 	text-align: end;
+}
+
+#workExperience table tr td::before {
+    content: '\f00c';
+    font-family: 'Font Awesome 6 Pro';
+    color: #2cb2d1;
+    margin-right: 10px;
 }
 
 /* end of reset */
