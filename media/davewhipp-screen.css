@@ -73,6 +73,20 @@ tr:nth-child(odd) {
 
 /* end of reset */
 
+header {
+    background: #0D0F33;
+    padding: 1rem 3rem;
+    width: 100%;
+    box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.1);
+    position: fixed;
+    margin-bottom: top;
+    top: 0;
+    z-index: 1000;
+}
+
+header img {
+    width: 7%;
+}
 
 
 body {
