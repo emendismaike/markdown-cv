@@ -34,35 +34,35 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## Kennis & Trainingen
 <!-- Copy paste the circles to define your level ●○○ ●●○ ●●● -->
 
-| **Talen**               |     | **Applicaties**              |
-|-------------------------|-----|------------------------------|
-| Engels                  | ●●● | Adobe CS Suite         | ●●○ | 
-| Nederlands              | ●●● | HiX                    | ●●● |
-| Surinaams               | ●●● | MS Office              | ●●● |
-| **Braches**             |     | Principle              | ●●● |
-| Gezondheidszorg         | ●●● | Sketch                 | ●●● |
-| ICT                     | ●●○ | Agolia                 | ●●● |
-| Grafische industrie     | ●●○ | Bloomreach CMS         | ●●○ |
-| **Expertises**          |     | Commerce tools         | ●●● |
-| Agile                   | ●●● | MS Azure               | ●●● |
-| CI/CD                   | ●●○ | Sendgrid               | ●●○ |
-| Keten testen            | ●●○ | Testrail               | ●●○ |
-| System integration test | ●●● | Pega                   | ●●○ |
-| Test automation         | ●●● | **Tools**              |     |
-| Wireframing             | ●●○ | Selenium               | ●●○ |
-| Prototyping             | ●●○ | Webdriver io           | ●●○ |
-| **Databases**           | ●●○ | Espresso               | ●●○ |
-| Lasesnotes              | ●●○ | Tosca                  | ●●○ |
-| TopDesk                 | ●●○ | Methodes               | ●●○ |
-| **Programmeren**        | ●●○ | **Development**        | ●●○ |
-| Typescript              | ●●○ | Domain driven          | ●●○ |
-| C#                      | ●●○ | Development            | ●●○ |
-| HTML/CSS                | ●●○ | POM                    | ●●○ |
-| Java                    | ●●○ | Test driven dev.       | ●●○ |
-| **OS & Netwerken**      | ●●○ |                        |     |
-| MacOS                   | ●●○ |                        |     |
-| Windows                 | ●●○ |                        |     |
-| Android                 | ●●○ |                        |     |
+| **Talen**               |     | **Applicaties**         |     |
+|-------------------------|-----|-------------------------|-----|
+| Engels                  | ●●● | Adobe CS Suite          | ●●○ | 
+| Nederlands              | ●●● | HiX                     | ●●● |
+| Surinaams               | ●●● | MS Office               | ●●● |
+| **Braches**             |     | Principle               | ●●● |
+| Gezondheidszorg         | ●●● | Sketch                  | ●●● |
+| ICT                     | ●●○ | Agolia                  | ●●● |
+| Grafische industrie     | ●●○ | Bloomreach CMS          | ●●○ |
+| **Expertises**          |     | Commerce tools          | ●●● |
+| Agile                   | ●●● | MS Azure                | ●●● |
+| CI/CD                   | ●●○ | Sendgrid                | ●●○ |
+| Keten testen            | ●●○ | Testrail                | ●●○ |
+| System integration test | ●●● | Pega                    | ●●○ |
+| Test automation         | ●●● | **Tools**               |     |
+| Wireframing             | ●●○ | Selenium                | ●●○ |
+| Prototyping             | ●●○ | Webdriver io            | ●●○ |
+| **Databases**           | ●●○ | Espresso                | ●●○ |
+| Lasesnotes              | ●●○ | Tosca                   | ●●○ |
+| TopDesk                 | ●●○ | Methodes                | ●●○ |
+| **Programmeren**        | ●●○ | **Development**         | ●●○ |
+| Typescript              | ●●○ | Domain driven           | ●●○ |
+| C#                      | ●●○ | Development             | ●●○ |
+| HTML/CSS                | ●●○ | POM                     | ●●○ |
+| Java                    | ●●○ | Test driven dev.        | ●●○ |
+| **OS & Netwerken**      | ●●○ |                         |     |
+| MacOS                   | ●●○ |                         |     |
+| Windows                 | ●●○ |                         |     |
+| Android                 | ●●○ |                         |     |
 
 </div>
 
