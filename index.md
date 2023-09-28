@@ -15,10 +15,8 @@ title: Maike Jochoms
 # Maike Jochoms
 Digital Designer at Emendis b.v.
 
-<div id="information" markdown=1>
-  <span id="city">Groesbeek</span>
-  <span id="dateOfBirth">07 - 10 - 1994</span>
-</div>
+<span id="city">Groesbeek</span>
+<span id="dateOfBirth">07 - 10 - 1994</span>
 
 <!-- Add your email address and website (if you don't have one, delete the website part -->
 <div id="webaddress">
