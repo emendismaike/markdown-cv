@@ -66,6 +66,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </div>
 
+<div id="workExperience" markdown=1>
+  
 ## Work experience
 
 `Sept. 2000 - Aug. 2004`
@@ -79,9 +81,9 @@ magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
 
 |   **Task**    |   **Results**   |  **Environment**    |
 |---------------|-----------------|---------------------|
-|  Task         |  * Result       |    Environment      |
-|  Task         |  * Result       |    Environment      |
-|  Task         |  * Result       |    Environment      |
+|  Task         |    Result       |    Environment      |
+|  Task         |    Result       |    Environment      |
+|  Task         |    Result       |    Environment      |
 
 <br/>
 
@@ -95,9 +97,9 @@ magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
 
 |   **Task**    |   **Results**   |  **Environment**    |
 |---------------|-----------------|---------------------|
-|  * Task       |  * Result       |  * Environment      |
-|  * Task       |  * Result       |  * Environment      |
-|  * Task       |  * Result       |  * Environment      |
+|    Task       |    Result       |    Environment      |
+|    Task       |    Result       |    Environment      |
+|    Task       |    Result       |    Environment      |
 
 ## Education 
 
@@ -113,7 +115,7 @@ __Education title__ <br/>
 
 - Diploma HAVO
 
-
+</div>
 
 ## Training & Courses
 
