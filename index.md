@@ -79,9 +79,9 @@ magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
 
 |   **Task**    |   **Results**   |  **Environment**    |
 |---------------|-----------------|---------------------|
-|  * Task       |  * Result       |  * Environment      |
-|  * Task       |  * Result       |  * Environment      |
-|  * Task       |  * Result       |  * Environment      |
+|  * Task       |  * Result       |  + Environment      |
+|  * Task       |  * Result       |  + Environment      |
+|  * Task       |  * Result       |     Environment      |
 
 <br/>
 
@@ -92,13 +92,19 @@ __Functie titel__\
 **Functieomschrijving** <br/>
 Functie omschrijving Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
 magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
+<!--
 |   **Task**    |   **Results**   |  **Environment**    |
 |---------------|-----------------|---------------------|
 |  * Task       |  * Result       |  * Environment      |
 |  * Task       |  * Result       |  * Environment      |
-|  * Task       |  * Result       |  * Environment      |
+|  * Task       |  * Result       |  * Environment      |-->
 
+
+|   **Task**    |   **Results**   |  **Environment**    |
+|---------------|-----------------|---------------------|
+| + list
+  + list
+  + list
 
 
 ## Education 
