@@ -65,7 +65,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 | Android                 | ●●○ |                         |     |
 
 </div>
-<div id="workExperience" markdown=1>
 
 ## Work experience
 
@@ -80,9 +79,9 @@ magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
 
 |   **Task**    |   **Results**   |  **Environment**    |
 |---------------|-----------------|---------------------|
-|  * Task       |  * Result       |  + Environment      |
-|  * Task       |  * Result       |  + Environment      |
-|  * Task       |  * Result       |     Environment      |
+|  Task         |  * Result       |    Environment      |
+|  Task         |  * Result       |    Environment      |
+|  Task         |  * Result       |    Environment      |
 
 <br/>
 
@@ -93,29 +92,12 @@ __Functie titel__\
 **Functieomschrijving** <br/>
 Functie omschrijving Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
 magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-<!--
+
 |   **Task**    |   **Results**   |  **Environment**    |
 |---------------|-----------------|---------------------|
 |  * Task       |  * Result       |  * Environment      |
 |  * Task       |  * Result       |  * Environment      |
-|  * Task       |  * Result       |  * Environment      |-->
-  
-**Task**
-- Task
-- Task
-- Task
-
-**Result**
-- Result
-- Result
-- Result
-
-**Environment**
-- Environment
-- Environment
-- Environment
-
-</div>
+|  * Task       |  * Result       |  * Environment      |
 
 ## Education 
 
