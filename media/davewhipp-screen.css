@@ -302,6 +302,9 @@ footer img {
 @media print { 
  /* All your print styles go here. This is an example: */
  #header, #footer, #nav { display: none !important; } 
+	h1 {
+		color:  green !important;
+	} 
 }
 
 /*
