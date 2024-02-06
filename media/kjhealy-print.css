@@ -190,5 +190,18 @@ strong {
 }
 
 
+@media print { 
+ /* All your print styles go here. This is an example: */
+	h1 {
+		color:  green !important;
+		font-size: 300% !important;
+	} 
+}
+
+h1 {
+	color: pink!important;
+}
+
+
 
 
