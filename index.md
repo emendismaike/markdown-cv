@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Maike Jochoms
+title: Hans Janssen
 ---
 
 <div id="sectionMain" markdown=1>
