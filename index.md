@@ -12,7 +12,7 @@ title: Hans Janssen
 </div>
 <div id="sectionMainName" markdown=1>
   
-# Maike Jochoms
+# Hans Janssen
 Digital Designer at Emendis b.v.
 
 <span id="city">Groesbeek</span>
