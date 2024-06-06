@@ -204,7 +204,6 @@ strong {
 	    padding-top: 3rem;
 	    padding-bottom: 2rem;
 	    align-items: center;
-	    margin-top: 80px;
 	}
 	
 	#city::before {
@@ -261,8 +260,6 @@ strong {
 	    padding: 1rem 3rem;
 	    width: 100%;
 	    box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.1);
-	    position: fixed;
-	    margin-bottom: top;
 	    top: 0;
 	    z-index: 1000;
 	}
