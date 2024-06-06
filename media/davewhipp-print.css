@@ -279,7 +279,7 @@ strong {
 	}
 
 	h2 {
-		color: #0D0F33
+		color: #0D0F33;
 	}
 	table {
 	    border-collapse: collapse;
@@ -291,7 +291,7 @@ strong {
 	thead {
 	    text-align: left;
 	}
-		tr:nth-child(odd) {
+	tr:nth-child(odd) {
 	    background-color: #eff4f8;
 	}
 	td, th {
