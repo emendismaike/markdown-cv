@@ -204,6 +204,7 @@ strong {
 	    padding-top: 3rem;
 	    padding-bottom: 2rem;
 	    align-items: center;
+		margin-top: 80px;
 	}
 	
 	#city::before {
