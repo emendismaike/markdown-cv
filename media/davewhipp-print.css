@@ -301,6 +301,9 @@ strong {
 		width: 75%;
 		left: 15%;
 	}
+	p code {
+		right: 0;
+	}
 }
 
 
