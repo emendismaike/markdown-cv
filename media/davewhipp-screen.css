@@ -299,14 +299,6 @@ footer img {
     margin-left: auto;
 }
 
-@media print { 
- /* All your print styles go here. This is an example: */
-	h1 {
-		color:  green !important;
-		font-size: 300% !important;
-	} 
-}
-
 /*
 @media only screen and (max-width: 480px) {
 	make one column somehow...
