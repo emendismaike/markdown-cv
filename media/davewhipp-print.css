@@ -110,10 +110,10 @@ li ul {
 	margin-top: 0.25em;
 }
 
-h1,h2,h3,h4 {
-	font-weight: 400;
-	font-family: Avenir,Cousine,Verdana,sans-serif;
-	width: 80%;
+h1, h2, h3, h4 {
+    font-weight: 700;
+    font-family: 'Cabin', Verdana;
+    width: 80%;
 }
 
 h1 {
@@ -161,12 +161,12 @@ a:hover {
 }
 
 #webaddress {
-	margin-top: 1em;
-	position: relative;
-	left: 25%;
-	color: #ccc;
-	font-family: Monaco,Menlo,monospace,sans-serif;
-	font-size: 90%;
+    margin-top: 1em;
+    position: relative;
+    left: 25%;
+    color: #2cb2d1;
+    font-family: Monaco, Menlo, monospace, sans-serif;
+    font-size: 100%;
 }
 
 #webaddress a {
