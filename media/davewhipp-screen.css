@@ -292,8 +292,9 @@ div#sectionMainName * {
 }
 
 footer img {
-    position: relative;
+    position: absolute;
     height: 8rem;
+	bottom: 0;
     display: flex;
     margin-top: auto;
     margin-left: auto;
