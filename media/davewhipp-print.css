@@ -201,6 +201,61 @@ h1 {
 	color: pink !important;
 }
 
+
+#sectionMain {
+    display: flex;
+    background-color: #eff5f8;
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+    align-items: center;
+}
+
+
+#city::before {
+    content: '\f3c5';
+    font-family: 'Font Awesome 6 Pro';
+    color: #2cb2d1;
+    margin-right: 10px;
+}
+
+#dateOfBirth::before {
+    content: '\f783';
+    font-family: 'Font Awesome 6 Pro';
+    color: #2cb2d1;
+    margin: 0 10px;
+}
+
+
+#sectionMainPhoto {
+	display: flex;
+	flex: 2;
+	justify-content: end;
+}
+
+#sectionMainPhoto p {
+    width: 270px;
+    object-fit: cover;
+    height: 270px;
+    left: 0;
+}
+
+#sectionMainPhoto img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 100%;
+    object-position: center;
+}
+
+#sectionMainName {
+	flex: 3;
+	padding-left: 3rem;
+}
+
+div#sectionMainName * {
+    left: 0;
+}
+
 header {
     background: #0D0F33;
     padding: 1rem 3rem;
