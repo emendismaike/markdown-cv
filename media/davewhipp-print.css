@@ -193,13 +193,15 @@ strong {
 
 @media print { 
  /* All your print styles go here. This is an example: */
+	
 	#sectionMain {
 	    display: flex;
-	    background-color: #eff5f8;
+	    background-color: #eff5f8 !important;
 	    padding-top: 3rem;
 	    padding-bottom: 2rem;
 	    align-items: center;
 	}
+	
 	#city::before {
 	    content: '\f3c5';
 	    font-family: 'Font Awesome 6 Pro';
@@ -213,7 +215,6 @@ strong {
 	    color: #2cb2d1;
 	    margin: 0 10px;
 	}
-	
 	
 	#sectionMainPhoto {
 		display: flex;
