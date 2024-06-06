@@ -277,6 +277,7 @@ strong {
 
 	h2 {
 		color: #0D0F33;
+		width: 15%;
 	}
 	table {
 	    border-collapse: collapse;
@@ -295,7 +296,7 @@ strong {
 	    padding: 0.5rem 1rem;
 	}
 	p {
-		width: 70%;
+		width: 75%;
 	}
 }
 
