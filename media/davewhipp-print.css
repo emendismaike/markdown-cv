@@ -193,10 +193,14 @@ strong {
 
 @media print { 
  /* All your print styles go here. This is an example: */
+	body {
+  		-webkit-print-color-adjust:exact !important;
+  		print-color-adjust:exact !important;
+	}
 	
 	#sectionMain {
 	    display: flex;
-	    background-color: #eff5f8 !important;
+	    background-color: #eff5f8;
 	    padding-top: 3rem;
 	    padding-bottom: 2rem;
 	    align-items: center;
