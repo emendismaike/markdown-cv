@@ -6,7 +6,7 @@ title: Hans Janssen
 <div id="sectionMain" markdown=1>
 <div id="sectionMainPhoto" markdown=1>
 
-<!-- Add your profile picture to the "media" directoy and change the "profile-picture.jpg" text to add it to your resume 
+<!-- Add your profile picture to the "media" directoy and change the "profile-picture.jpg" text to add it to your resume-->
 (./media/img/profile-picture.jpg)
 
 </div>
